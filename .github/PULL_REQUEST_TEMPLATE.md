@@ -1,16 +1,16 @@
 ## Summary of changes
-<!-- Please provide a brief summary of the changes you have made. [See the PR documentation](https://arbor-education.slite.com/app/docs/YFdGsoCTVgHCtT/PR-Template-Guidance) on Slite for further guidance. -->
-- [YOUR_TICKET_ID](https://orchard.atlassian.net/browse/YOUR_TICKET_ID)
--
+<!-- A brief summary of the changes you have made. This section is MANDATORY and reviewers must insist this is completed. -->
+- YOUR_TICKET_ID
+- 
 
 ### Areas to focus on
-<!-- Please provide a list of specific files/lines that the reviewer should focus on. For example, if your changes include a lot of formatting updates but only 3 lines where there is an actual change in logic, direct the reviewer to those 3 lines. -->
+<!-- A list of specific files/lines that the reviewer should focus on. DELETE this section if N/A. -->
 - 
 
 ### Notes for code owners
-<!-- Please provide any additional notes for each code owner, if relevant. This should help them find the changes that are relevant to their role as code owner. -->
+<!-- Notes for the code owners. DELETE this section if N/A. -->
 - 
 
 ### Breaking changes
-<!-- Please [review the breaking changes documentation](https://arbor-education.slite.com/app/docs/u-uGB2Jc2szXid). If your changes introduce a breaking change, please ensure that you have documented them in the Jira ticket and noted any mitigations put in place. -->
+<!-- Notes on any breaking changes. Also ensure that you have documented them in Jira. DELETE this section if N/A. -->
 - 
