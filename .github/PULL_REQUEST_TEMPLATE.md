@@ -1,6 +1,6 @@
 ## Summary of changes
 <!-- A brief summary of the changes you have made. This section is MANDATORY and reviewers must insist this is completed. -->
-- YOUR_TICKET_ID
+- [YOUR_TICKET_ID](https://orchard.atlassian.net/browse/YOUR_TICKET_ID)
 - 
 
 ### Areas to focus on
