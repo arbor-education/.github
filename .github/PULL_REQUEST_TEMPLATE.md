@@ -6,4 +6,3 @@
 ### Notes for code owners 
 
 ### Breaking changes
-<!-- BREAKING CHANGE: Describe what breaks backward compatibility and why -->
