@@ -1,5 +1,5 @@
 ## Summary of changes
-[YOUR_TICKET_ID](https://orchard.atlassian.net/browse/YOUR_TICKET_ID)
+PASTE_JIRA_TICKET_LINK_HERE
 
 ### Areas to focus on
 
