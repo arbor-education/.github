@@ -1,5 +1,5 @@
 ## Summary of changes
-PASTE_JIRA_TICKET_LINK_HERE
+[YOUR_TICKET_ID](YOUR_TICKET_LINK)
 
 ### Areas to focus on
 
