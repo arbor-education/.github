@@ -1,5 +1,5 @@
 ## Summary of changes
-[YOUR_TICKET_ID](YOUR_TICKET_LINK)
+[YOUR_TICKET_ID](https://orchard.atlassian.net/browse/YOUR_TICKET_ID)
 
 ### Areas to focus on
 
